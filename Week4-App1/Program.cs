@@ -12,7 +12,7 @@ namespace Week4_App1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Workshop 4 edit");
-            Console.WriteLine("Edit by JB");
+            Console.WriteLine("Edit by JB 2");
             Console.ReadLine();
         }
     }
